@@ -11,3 +11,4 @@
 - Solidity
 - Rust（可选）
 - Zama fhEVM 框架
+# 项目更新 1: 添加新功能描述
